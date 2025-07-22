@@ -9,3 +9,4 @@ Maybe fill this out?
 * The best kind of phone is _______
 * The best superhero is ___________
 * The best operating system is __macos/linux__
+* The best text editor is __notepad__
