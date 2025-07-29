@@ -4,7 +4,11 @@ Make some changes to this file.
 
 Maybe fill this out?
 
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+* The best operating system is osx
+* The best text editor is vi
+* The best kind of phone is iphone
+* The best superhero is spiderman
+* The best operating system is osx
+* The best text editor is vi
+* The best kind of phone is iphone
+* The best superhero is spiderman
