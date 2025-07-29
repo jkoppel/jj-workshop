@@ -6,7 +6,7 @@ Here's a change! And then another change!
 
 Maybe fill this out?
 
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+* The best operating system is no clear winner
+* The best text editor is no clear winner
+* The best kind of phone is no clear winner
+* The best superhero is Green Lantern
