@@ -2,6 +2,8 @@ Follow the instructions in the Google Slide
 
 Make some changes to this file.
 
+Here's a change! And then another change!
+
 Maybe fill this out?
 
 * The best operating system is ______
