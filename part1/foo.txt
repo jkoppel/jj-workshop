@@ -1,4 +1,4 @@
-Follow the instructions in the Google Slide
+Follow the instructions in the Google Slides
 
 Make some changes to this file.
 
@@ -8,7 +8,4 @@ Maybe fill this out?
 * The best text editor is vi
 * The best kind of phone is iphone
 * The best superhero is spiderman
-* The best operating system is osx
-* The best text editor is vi
-* The best kind of phone is iphone
-* The best superhero is spiderman
+* The best animal is cat
