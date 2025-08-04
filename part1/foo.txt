@@ -1,10 +1,11 @@
 Follow the instructions in the Google Slide
 
 Make some changes to this file.
-
+change to intermediate squash
 Maybe fill this out?
 
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+* The best operating system is blah
+* The best text editor is blah
+* The best kind of phone is blah_
+* The best superhero is blah_____
+another change
