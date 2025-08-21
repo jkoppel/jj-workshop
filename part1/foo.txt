@@ -2,9 +2,6 @@ Follow the instructions in the Google Slide
 
 Make some changes to this file.
 
-Maybe fill this out?
-
-* The best kind of phone is _______
-* The best superhero is ___________
 * The best operating system is whatever.
 * The best text editor is none.
+* The best kind of phone is no phone.
