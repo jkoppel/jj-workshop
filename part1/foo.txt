@@ -8,3 +8,6 @@ Maybe fill this out?
 * The best text editor is Cursor
 * The best kind of phone is iPhone
 * The best superhero is Batman
+
+
+this is a test after `jj new my-branch`. i like mcdonalds..
