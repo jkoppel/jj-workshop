@@ -1,10 +1,19 @@
 Follow the instructions in the Google Slide
 
+Ex:q
+
 Make some changes to this file.
 
 Maybe fill this out?
 
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+(New line added here!)
+
+* The best operating system is  linux 
+* The best text editor is helix
+* The best kind of phone is brick
+Some other changes
+
+This is ex4 stuff!!!
+
+Ex:7
+Ex:7 part 2
